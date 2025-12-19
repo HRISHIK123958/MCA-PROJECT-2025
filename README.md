@@ -32,4 +32,4 @@ clf = joblib.load('random_forest_firewall_model.joblib')
 # Classify traffic
 # Returns: ['Normal'] or ['Suspicious']
 result = clf.predict(live_traffic_data)
-<p align="center"> <b>Developed by <a href="https://github.com/HRISHIK123958">HRISHIK DEY</a> <a href="https://github.com/iArnabMaity">ARNAB MAITY</a> <a hred="https://github.com/zainab9hasan"> ZAINAB HASAN</b> | 2024 Research Repository </p>
+<p align="center"> <b>Developed by <a href="https://github.com/iArnabMaity">ARNAB MAITY</a>,  <a href="https://github.com/HRISHIK123958">HRISHIK DEY</a>,  <a hreF="https://github.com/zainab9hasan"> ZAINAB HASAN</b> | 2024 Research Repository </p>
