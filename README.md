@@ -1,4 +1,4 @@
-<p align="center">🛡️ Implementation of AI-Based Cognitive Firewall in Banking Sector</p>
+<p align="center"><b>🛡️ Implementation of AI-Based Cognitive Firewall in Banking Sector</b></p>
 <p align="center"><b>Next-Generation Intrusion Detection for the Banking Sector</b></p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Model-Random_Forest_Ensemble-616ae5?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Domain-FinTech_Security-FFD700?style=for-the-badge&logo=bank&logoColor=black" /> <img src="https://img.shields.io/badge/Accuracy-99.2%25-2ea44f?style=for-the-badge" /> </p>
@@ -41,8 +41,8 @@ decision = engine.predict(network_payload)
 
 if decision == 'Suspicious':
     trigger_security_protocol()
-👥 Research & Development Team
 
-ADAMAS UNIVERSITY Cognitive Computing & Cybersecurity Lab
+<p align="center"><b>ADAMAS UNIVERSITY</b></p>
 
 <p align="center"> <b> <a href="https://github.com/iArnabMaity">Arnab Maity</a> • <a href="https://github.com/HRISHIK123958">Hrishik Dey</a> • <a href="https://github.com/zainab9hasan">Zainab Hasan</a> • <a href="https://github.com/sohel762">Sohel Ali Mondal</a> • <a href="https://github.com/Sohelshaikh2301">Sk Sohel Rahaman</a> </b> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg" /> <img src="https://img.shields.io/badge/Contributions-Welcome-blue.svg" /> </p>
